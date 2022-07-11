@@ -2,7 +2,7 @@
     box-sizing: border-box;
   }
 
-  p , h1 , a {
+  p , h2 , b , h1 , a {
     color: white;
   }
   
@@ -36,10 +36,11 @@
     width: 300px;
     height: 300px;
     margin-left: 50px;
-    margin-top: 50px;
+    margin-top: 40px;
   }
 
   .myname {
+  
    padding-left: 100px;
   }
 
@@ -78,3 +79,12 @@
     border: 1px solid white;
     
   }
+
+   h2 {
+    text-align: center;
+  }
+
+  h3 {
+    color: white;
+  }
+
